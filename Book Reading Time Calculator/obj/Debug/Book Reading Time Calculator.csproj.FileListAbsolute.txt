@@ -1,0 +1,15 @@
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\bin\Debug\Kitapsüresi.exe.config
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\bin\Debug\Kitapsüresi.exe
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\bin\Debug\Kitapsüresi.pdb
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Book Reading Time Calculator.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Book Reading Time Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Kitapsüresi.Form1.resources
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Kitapsüresi.Properties.Resources.resources
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Book Reading Time Calculator.csproj.GenerateResource.cache
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Book Reading Time Calculator.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Kitapsüresi.exe
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Kitapsüresi.pdb
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\bin\Debug\Kitapsüresi.exe.manifest
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\bin\Debug\Kitapsüresi.application
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Kitapsüresi.exe.manifest
+C:\Users\abdul\Desktop\vs22\Kitapsüresi\obj\Debug\Kitapsüresi.application
